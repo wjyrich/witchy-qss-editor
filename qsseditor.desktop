@@ -1,0 +1,11 @@
+[Desktop Entry]
+Categories=Accessibility;Qt;Utility;
+Exec=qss_editor
+Name=qss_editor
+Name[zh_CN]=qss_editor
+Icon=qss_editor
+StartupNotify=false
+Terminal=false
+Type=Application
+GenericName=qss_editor
+Version=1.0
